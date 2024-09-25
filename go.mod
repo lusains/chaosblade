@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/chaosblade-io/chaosblade-exec-cloud v1.7.4
-	github.com/chaosblade-io/chaosblade-exec-cri v1.7.4
+	github.com/lusains/chaosblade-exec-cri v1.7.4
 	github.com/chaosblade-io/chaosblade-exec-middleware v1.7.4
 	github.com/chaosblade-io/chaosblade-exec-os v1.7.4
 	github.com/chaosblade-io/chaosblade-operator v1.7.4
