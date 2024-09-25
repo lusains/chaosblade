@@ -85,7 +85,7 @@ ifeq ($(GOOS), linux)
 	GO_FLAGS=-ldflags="-linkmode external -extldflags -static $(GO_X_FLAGS) -s -w"
 endif
 
-CC:=/usr/local/musl/bin/musl-gcc
+CC:=/usr/bin/musl-gcc
 
 help:
 	@echo ''
